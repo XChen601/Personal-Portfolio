@@ -14,7 +14,7 @@ The experiences section of my portfolio provides an overview of my professional 
 The projects section showcases a selection of my past projects. Each project entry includes a brief description, key features, technologies used, and a link to the github for the project. 
 
 ### Contact
-The contact section provides a convenient way for visitors to get in touch with me. It includes my email address and links to my social media profiles, making it easy for potential employers, clients, or collaborators to reach out and connect with me. I am always open to new opportunities and collaborations, so feel free to contact me through any of the provided channels.
+The contact section provides a convenient way for visitors to get in touch with me.
 
 ## Technologies Used
 React.js

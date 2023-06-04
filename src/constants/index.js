@@ -15,9 +15,9 @@ import {
   btt,
   unadat,
   dycd,
-  carrent,
-  jobit,
-  tripguide,
+  eyescreamvision,
+  stocktrace,
+  tickstock,
   threejs,
 } from "../assets";
 
@@ -139,33 +139,58 @@ const experiences = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Stock Trace",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search for stocks, track stocks by favoriting, and compare stock performances using the Tradier API",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
+        name: "firebase",
+        color: "text-red-500",
       },
       {
-        name: "tailwind",
-        color: "pink-text-gradient",
+        name: "bootstrap",
+        color: "text-pink-500",
+      },
+      {
+        name: "tradier API",
+        color: "green-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: stocktrace,
+    source_code_link: "https://github.com/XChen601/StockTrace",
   },
   {
-    name: "Job IT",
+    name: "Eye Scream Vision",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application created to promote an optometrist center catering to people looking for a full-service eye care experience while also providing a unique and fun experience",
     tags: [
       {
         name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react-router",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eyescreamvision,
+    source_code_link: "https://github.com/XChen601/Eye-Scream-Vision",
+  },
+  {
+    name: "TickStock",
+    description:
+      "Android application built using Android Studio and Kotlin that displays stock prices, news relating to finance, and allows users to change settings",
+    tags: [
+      {
+        name: "Android Studio",
         color: "blue-text-gradient",
       },
       {
@@ -173,33 +198,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Kotlin",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: tickstock,
+    source_code_link: "https://github.com/XChen601/TickStockFinal",
   },
 ];
 

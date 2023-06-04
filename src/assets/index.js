@@ -22,9 +22,9 @@ import dycd from "./company/dycd.jpg";
 import btt from "./company/btt.svg";
 import unadat from "./company/unadat.jpg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import eyescreamvision from "./eyescreamvision.png";
+import stocktrace from "./stocktrace.png";
+import tickstock from "./tickstock.gif";
 
 export {
   logo,
@@ -48,7 +48,7 @@ export {
   dycd,
   btt,
   unadat,
-  carrent,
-  jobit,
-  tripguide,
+  eyescreamvision,
+  stocktrace,
+  tickstock,
 };

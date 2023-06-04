@@ -1,5 +1,5 @@
 # Personal Portfolio - Xing Chen
-This is my personal portfolio project, hosted on GitHub, which showcases my experiences, projects, and provides a way to contact me. The portfolio website is built using a template provided by "Javascript Mastery".
+This is my personal portfolio project, hosted on GitHub, which showcases my experiences, projects, and provides a way to contact me. The portfolio website is largely built using a template provided by "Javascript Mastery".
 
 [Website Link](https://xchen601.github.io/personal-portfolio/)
 

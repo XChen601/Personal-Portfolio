@@ -4,7 +4,7 @@ This is my personal portfolio project, hosted on GitHub, which showcases my expe
 [Website Link](https://xchen601.github.io/personal-portfolio/)
 
 ## Template Credit
-The template used for this portfolio project is provided by Javascript Mastery. They offer a wide range of helpful resources, tutorials, and templates for web development. I highly recommend checking out their website if you are interested in learning more about JavaScript and web development.
+The template used for this portfolio project is provided by Javascript Mastery. They offer a wide range of helpful resources and tutorials for web development. I highly recommend checking out their youtube channel if you are interested in learning more about JavaScript and web development.
 
 ## Sections
 ### Experiences

@@ -56,15 +56,25 @@ const experiences = [
     ],
   },
   {
+    title: "Cybersecurity Student",
+    company_name: "CodePath",
+    icon: codepath,
+    iconBg: "#FFFFFF",
+    date: "Sep 2022 - Nov 2022",
+    points: [
+      "Learned about requests, cookies and session based attacks, sql injections and other types of attacks",
+      "Received Certificate of Achievement for Codepath Cybersecurity with honors",
+    ],
+  },
+  {
     title: "Android Developer",
     company_name: "CodePath",
     icon: codepath,
     iconBg: "#FFFFFF",
     date: "Feb 2022 - April 2022",
     points: [
-      "Learned the basics of Android Studio, Kotlin, working with APIs, and the backend",
-      "Created a clone Instagram app that stores and displays users posts, names, and images",
-      "Worked with team members to developed basic Android applications that retrieves data through API calls and used Back4App to create a backend to store user information",
+      "Created a clone Instagram app with Kotlin that stores and displays users posts, names, and images",
+      "Collaborated with team members to developed Android applications that retrieves data through API calls and used Back4App to create a backend to store user information",
     ],
   },
 ];

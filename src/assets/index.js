@@ -12,6 +12,15 @@ import eyescreamvision from "./eyescreamvision.png";
 import stocktrace from "./stocktrace.png";
 import tickstock from "./tickstock.gif";
 
+import css from "./tech/css.png";
+import git from "./tech/git.png";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
+import react from "./tech/reactjs.png";
+import tailwind from "./tech/tailwind.png";
+import mui from "./tech/materialui.png";
+import firebase from "./tech/firebase.png";
+import python from "./tech/python.png";
 export {
   logo,
   github,
@@ -24,4 +33,13 @@ export {
   eyescreamvision,
   stocktrace,
   tickstock,
+  css,
+  git,
+  html,
+  javascript,
+  react,
+  tailwind,
+  mui,
+  firebase,
+  python,
 };

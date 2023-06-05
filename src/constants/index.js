@@ -6,6 +6,15 @@ import {
   eyescreamvision,
   stocktrace,
   tickstock,
+  css,
+  html,
+  git,
+  javascript,
+  react,
+  tailwind,
+  mui,
+  firebase,
+  python,
 } from "../assets";
 
 export const navLinks = [
@@ -79,6 +88,45 @@ const experiences = [
   },
 ];
 
+const technologies = [
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "Git",
+    icon: git,
+  },
+  {
+    name: "Javascript",
+    icon: javascript,
+  },
+  {
+    name: "ReactJS",
+    icon: react,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
+  {
+    name: "Material UI",
+    icon: mui,
+  },
+  {
+    name: "Firebase",
+    icon: firebase,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+];
+
 const projects = [
   {
     name: "Stock Trace",
@@ -149,4 +197,4 @@ const projects = [
   },
 ];
 
-export { experiences, projects };
+export { technologies, experiences, projects };

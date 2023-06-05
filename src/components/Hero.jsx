@@ -11,7 +11,7 @@ const Hero = () => {
                 <p className={`${styles.heroSubText} text-white`}>I'm a college student, web developer, <br className="sm:block hidden" /> and learning about ML & AI</p>
             </div>
             <a href={resume} download>
-                <button className="my-8 bg-tertiary hover:bg-black-100 text-white font-bold py-2 px-4 rounded">
+                <button className="my-8 shadow-xl bg-tertiary hover:bg-black-100 text-white font-bold py-2 px-4 rounded">
                     Download Resume
                 </button>
             </a>

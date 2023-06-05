@@ -52,19 +52,6 @@ const experiences = [
     points: ["Incoming intern at Unadat"],
   },
   {
-    title: "Information Technology Intern",
-    company_name: "Department of Youth and Community Development",
-    icon: dycd,
-    iconBg: "#FFFFFF",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Completed and deployed a SQL Server Reporting Services (SSRS) report data to accelerate retrieval of relevant data for the agency",
-      "Used SQL Server Management Studio to retrieve data across multiple years from an internal database to incorporate into an SSRS report",
-      "Organized data using excel spreadsheets to update internal databases with improved descriptions for over 100 reports for better readability and understand-ability",
-      "Participated in daily stand-ups and collaborated with team members to achieve sprint goals",
-    ],
-  },
-  {
     title: "Cybersecurity Student",
     company_name: "CodePath",
     icon: codepath,
@@ -73,6 +60,19 @@ const experiences = [
     points: [
       "Learned about requests, cookies and session based attacks, sql injections and other types of attacks",
       "Received Certificate of Achievement for Codepath Cybersecurity with honors",
+    ],
+  },
+  {
+    title: "Information Technology Intern",
+    company_name: "Department of Youth and Community Development",
+    icon: dycd,
+    iconBg: "#FFFFFF",
+    date: "July 2022 - Sep 2022",
+    points: [
+      "Completed and deployed a SQL Server Reporting Services (SSRS) report data to accelerate retrieval of relevant data for the agency",
+      "Used SQL Server Management Studio to retrieve data across multiple years from an internal database to incorporate into an SSRS report",
+      "Organized data using excel spreadsheets to update internal databases with improved descriptions for over 100 reports for better readability and understand-ability",
+      "Participated in daily stand-ups and collaborated with team members to achieve sprint goals",
     ],
   },
   {

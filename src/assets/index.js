@@ -7,9 +7,11 @@ import codepath from "./company/codepath.png";
 import dycd from "./company/dycd.jpg";
 import btt from "./company/btt.svg";
 import unadat from "./company/unadat.jpg";
+import ctp from "./company/ctp.png";
+import basta from "./company/basta.jpg";
 
 import eyescreamvision from "./eyescreamvision.png";
-import stocktrace from "./stocktrace.png";
+import equitytrace from "./equitytrace.png";
 import tickstock from "./tickstock.gif";
 
 import css from "./tech/css.png";
@@ -21,6 +23,10 @@ import tailwind from "./tech/tailwind.png";
 import mui from "./tech/materialui.png";
 import firebase from "./tech/firebase.png";
 import python from "./tech/python.png";
+import mongoDB from "./tech/mongoDB.svg";
+import nodejs from "./tech/nodejs.webp";
+import php from "./tech/php.png";
+
 export {
   logo,
   github,
@@ -31,7 +37,7 @@ export {
   btt,
   unadat,
   eyescreamvision,
-  stocktrace,
+  equitytrace,
   tickstock,
   css,
   git,
@@ -42,4 +48,9 @@ export {
   mui,
   firebase,
   python,
+  ctp,
+  basta,
+  mongoDB,
+  nodejs,
+  php,
 };

@@ -4,7 +4,7 @@ import {
   unadat,
   dycd,
   eyescreamvision,
-  stocktrace,
+  equitytrace,
   tickstock,
   css,
   html,
@@ -15,6 +15,11 @@ import {
   mui,
   firebase,
   python,
+  ctp,
+  basta,
+  mongoDB,
+  nodejs,
+  php,
 } from "../assets";
 
 export const navLinks = [
@@ -34,22 +39,45 @@ export const navLinks = [
 
 const experiences = [
   {
+    title: "Google Software Engineering Program (G-SWEP) Participant",
+    company_name: "BASTA",
+    icon: basta,
+    iconBg: "#FFFFFF",
+    date: "July 2023 - Present",
+    points: [
+      "Selected to participate in 10 weeks of rigorous, technical mentoring sessions with a Google SWE and workshops designed to enhance technical problem-solving and interview skills",
+    ],
+  },
+  {
+    title: "Web Development Fellow",
+    company_name: "CUNY Tech Prep",
+    icon: ctp,
+    iconBg: "#000",
+    date: "July 2023 - Present",
+    points: [
+      "Gaining hands-on experience in machine learning and AI algorithms, methodologies, and frameworks",
+    ],
+  },
+  {
     title: "Break Through Tech AI Fellow @Cornell Tech",
     company_name: "Break Through Tech",
     icon: btt,
     iconBg: "#999999",
     date: "June 2023 - Present",
     points: [
-      "Gaining hands-on experience in machine learning and AI algorithms, methodologies, and frameworks",
+      "Conducted extensive data preprocessing, cleaning, and feature engineering to optimize the performance of machine learning algorithms with NumPy, pandas, and sckit-learn",
+      "Utilized Python and scikit-learn to implement and train machine learning models with various algorithms, leveraging Jupyter Notebook for experimentation and visualization",
     ],
   },
   {
-    title: "Incoming Software Developer Intern",
+    title: "Fullstack Software Developer Intern",
     company_name: "Unadat",
     icon: unadat,
     iconBg: "#FFFFFF",
     date: "July 2023 - September 2023",
-    points: ["Incoming intern at Unadat"],
+    points: [
+      "Actively contributing to the development of a dynamic website, developing new features with PHP and connecting to a MySQL with AJAX and Javascript",
+    ],
   },
   {
     title: "Cybersecurity Student",
@@ -125,32 +153,44 @@ const technologies = [
     name: "Python",
     icon: python,
   },
+  {
+    name: "MongoDB",
+    icon: mongoDB,
+  },
+  {
+    name: "NodeJS",
+    icon: nodejs,
+  },
+  {
+    name: "PHP",
+    icon: php,
+  },
 ];
 
 const projects = [
   {
-    name: "Stock Trace",
+    name: "EquityTrace",
     description:
-      "Web-based platform that allows users to search for stocks, track stocks by favoriting, and compare stock performances using the Tradier API",
+      "Web-based platform that allows users to search for stocks, trade and track stock performances, and view stock data using the Tradier API",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
-        color: "text-red-500",
+        name: "mongoDB",
+        color: "text-green-700",
       },
       {
-        name: "bootstrap",
-        color: "text-pink-500",
+        name: "NodeJS",
+        color: "text-blue-500",
       },
       {
         name: "tradier API",
-        color: "green-text-gradient",
+        color: "pink-text-gradient",
       },
     ],
-    image: stocktrace,
+    image: equitytrace,
     source_code_link: "https://github.com/XChen601/StockTrace",
   },
   {

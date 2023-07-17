@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.6654d3c0.css",
-    "main.js": "/personal-portfolio/static/js/main.52dbb708.js",
+    "main.js": "/personal-portfolio/static/js/main.72037dcb.js",
     "static/media/tickstock.gif": "/personal-portfolio/static/media/tickstock.3c983b4c854afb610e8c.gif",
     "static/media/eyescreamvision.png": "/personal-portfolio/static/media/eyescreamvision.7878d8dd4d2187b0d4a0.png",
     "static/media/herobg.avif": "/personal-portfolio/static/media/herobg.c58c410d3da594d00c5d.avif",
     "static/media/XingChen_Resume.pdf": "/personal-portfolio/static/media/XingChen_Resume.d8184657d855936b18d4.pdf",
+    "static/media/php.png": "/personal-portfolio/static/media/php.a7759c068d5c9f03bebf.png",
     "static/media/equitytrace.png": "/personal-portfolio/static/media/equitytrace.2ab00b514bb270d90fe3.png",
     "static/media/python.png": "/personal-portfolio/static/media/python.bf6cf2035d54ae277819.png",
     "static/media/ctp.png": "/personal-portfolio/static/media/ctp.57c4c8517df448c781ad.png",
     "static/media/firebase.png": "/personal-portfolio/static/media/firebase.eb0f694b0397db6b58c3.png",
     "static/media/materialui.png": "/personal-portfolio/static/media/materialui.5b2d8a0a309d9f7d47c1.png",
+    "static/media/nodejs.webp": "/personal-portfolio/static/media/nodejs.4e97577b981eca678bfe.webp",
     "static/media/github.png": "/personal-portfolio/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/btt.svg": "/personal-portfolio/static/media/btt.ea36796f6e604d93779ee90e7ec715b0.svg",
     "static/media/logo.svg": "/personal-portfolio/static/media/logo.0a44d877f340d35ad28d40ce5c284b2e.svg",
     "static/media/close.svg": "/personal-portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/mongoDB.svg": "/personal-portfolio/static/media/mongoDB.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "static/media/menu.svg": "/personal-portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/personal-portfolio/index.html",
     "main.6654d3c0.css.map": "/personal-portfolio/static/css/main.6654d3c0.css.map",
-    "main.52dbb708.js.map": "/personal-portfolio/static/js/main.52dbb708.js.map"
+    "main.72037dcb.js.map": "/personal-portfolio/static/js/main.72037dcb.js.map"
   },
   "entrypoints": [
     "static/css/main.6654d3c0.css",
-    "static/js/main.52dbb708.js"
+    "static/js/main.72037dcb.js"
   ]
 }

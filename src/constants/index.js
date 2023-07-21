@@ -55,7 +55,7 @@ const experiences = [
     iconBg: "#000",
     date: "July 2023 - Present",
     points: [
-      "Gaining hands-on experience in machine learning and AI algorithms, methodologies, and frameworks",
+      "Selected to participate in a web development fellowship program that provides training in software development, professional development, and industry exposure to prepare for a career in tech",
     ],
   },
   {

@@ -1,6 +1,6 @@
 import React from 'react'
 import { styles } from '../styles'
-import resume from '../assets/XingChen_Resume.pdf'
+import resume from '../assets/Xing_Chen_Resume.pdf'
 
 const Hero = () => {
   return (

@@ -9,6 +9,7 @@ import btt from "./company/btt.svg";
 import unadat from "./company/unadat.jpg";
 import ctp from "./company/ctp.png";
 import basta from "./company/basta.jpg";
+import kpmg from "./company/KPMG_logo.svg";
 
 import eyescreamvision from "./eyescreamvision.png";
 import equitytrace from "./equitytrace.png";
@@ -36,6 +37,7 @@ export {
   dycd,
   btt,
   unadat,
+  kpmg,
   eyescreamvision,
   equitytrace,
   tickstock,

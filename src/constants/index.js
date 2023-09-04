@@ -3,6 +3,7 @@ import {
   btt,
   unadat,
   dycd,
+  kpmg,
   eyescreamvision,
   equitytrace,
   tickstock,
@@ -39,6 +40,16 @@ export const navLinks = [
 
 const experiences = [
   {
+    title: "Machine Learning Project Participant",
+    company_name: "KPMG",
+    icon: kpmg,
+    iconBg: "#FFFFFF",
+    date: "August 2023 - Present",
+    points: [
+      "Collaborating with 4 other team members to predict gender inequality in different geographical areas using various machine learning models on US government data sets",
+    ],
+  },
+  {
     title: "Google Software Engineering Program (G-SWEP) Participant",
     company_name: "BASTA",
     icon: basta,
@@ -59,8 +70,8 @@ const experiences = [
     ],
   },
   {
-    title: "Break Through Tech AI Fellow @Cornell Tech",
-    company_name: "Break Through Tech",
+    title: "Machine Learning Fellow",
+    company_name: "Break Through Tech @Cornell Tech",
     icon: btt,
     iconBg: "#999999",
     date: "June 2023 - Present",
@@ -74,7 +85,7 @@ const experiences = [
     company_name: "Unadat",
     icon: unadat,
     iconBg: "#FFFFFF",
-    date: "July 2023 - September 2023",
+    date: "June 2023 - August 2023",
     points: [
       "Actively contributing to the development of a dynamic website, developing new features with PHP and connecting to a MySQL with AJAX and Javascript",
     ],
@@ -84,7 +95,7 @@ const experiences = [
     company_name: "CodePath",
     icon: codepath,
     iconBg: "#FFFFFF",
-    date: "Sep 2022 - Nov 2022",
+    date: "September 2022 - November 2022",
     points: [
       "Learned about requests, cookies and session based attacks, sql injections and other types of attacks",
       "Received Certificate of Achievement for Codepath Cybersecurity with honors",
@@ -95,7 +106,7 @@ const experiences = [
     company_name: "Department of Youth and Community Development",
     icon: dycd,
     iconBg: "#FFFFFF",
-    date: "July 2022 - Sep 2022",
+    date: "June 2022 - August 2022",
     points: [
       "Completed and deployed a SQL Server Reporting Services (SSRS) report data to accelerate retrieval of relevant data for the agency",
       "Used SQL Server Management Studio to retrieve data across multiple years from an internal database to incorporate into an SSRS report",
